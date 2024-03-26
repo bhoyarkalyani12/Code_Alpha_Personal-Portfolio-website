@@ -21,3 +21,10 @@ Key Features:
 7. **Customizable and Extendable:** The website's codebase is modular, well-structured, and easily customizable, allowing you to tailor it to your specific preferences and requirements. It's also designed to be extendable, meaning you can add new features or sections as your portfolio evolves over time.
 
 Overall, the personal portfolio website project serves as a powerful tool for showcasing your talents, building your personal brand, and connecting with potential clients, employers, or collaborators in the digital space.
+
+![Screenshot (personal-portfolio-website)](https://github.com/bhoyarkalyani12/Code_Alpha_Personal-Portfolio-website/assets/131539350/454aa7b5-4e95-44c6-b101-771dc6d16562)
+
+
+
+
+
